@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+   img {
+    width: 300px;
+    height: 200px;
+    border: 2px solid black;
+} 
+.card {
+    width: 300px;
+    height: 200px;
+    color: rgba(255, 255, 255, 0.5); /* Semi-transparent background */
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px;
+    transition: background-color 0.3s; /* Smooth transition on hover */
+}
+.card:hover {
+    color: rgba(0, 0, 0, 0.2); /* Fully opaque background on hover */
+}

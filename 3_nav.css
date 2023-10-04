@@ -1,0 +1,42 @@
+nav {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 0;
+    background-color: rgb(36, 32, 245);
+}
+
+nav ul {
+    list-style: none;
+  
+}
+nav ul li{
+    display: inline;
+    margin-left: 20px;
+}
+
+.border1 a {
+    color: white;
+    transition: 0.3s;
+    border: 2px solid black;
+}
+.border2 a{
+    color: white;
+    transition: 0.3s;
+    border:2px solid red ;
+}
+
+.border3 a{
+    color: white;
+    transition: 0.3s;
+    border: 2px solid yellowgreen;
+}
+.border4 a{
+    color: white;
+    transition: 0.3s;
+    border: 2px solid rgb(205, 50, 84);
+}
+.border5 a{
+    color: white;
+    transition: 0.3s;
+    border: 2px solid rgb(19, 213, 219);
+}

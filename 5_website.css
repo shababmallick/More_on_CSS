@@ -1,0 +1,15 @@
+.container {
+   background-color: rgb(13, 138, 127);
+   text-align: center;
+   padding: 1px;
+   font-family: 'Oswald', sans-serif;
+}
+
+.container h1 {
+    color: white;
+}
+
+.container1 p {
+  text-align: center;
+    font-family: 'Open Sans', sans-serif; 
+}

@@ -1,0 +1,10 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 10px;
+}
+
+.list ol{
+    list-style: none;
+    list-style-type: lower-roman;
+}

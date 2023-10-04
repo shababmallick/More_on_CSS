@@ -1,0 +1,25 @@
+     /* Center the content horizontally and vertically */
+     .centered-content {
+        border: 10px solid rgb(255, 251, 8);
+        width:fit-content;
+        margin: 0 auto;
+        background-color:  rgb(255, 251, 8);
+        border-radius: 18px;
+    }
+
+    /* Style the paragraph (you can modify this to your preferences) */
+    .centered-content p {
+        font-size: 18px;
+        color: #333;
+        max-width: 100%;
+        padding-left: 10px;
+
+       
+    }
+
+    /* Style the image (you can modify this to your preferences) */
+    .centered-content img {
+        height: 250px;
+        width: 300px;
+        border-radius: 12px;
+    }
